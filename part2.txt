@@ -1,1 +1,51 @@
-Fill in the passphrases here.
+Fill in the passphrases here.     
+     question 1: greenEggsAndHam
+     
+     question 2: iHateCplusplus
+     
+     question 3: HTMLRocks 
+     
+     question 4: JavaScriptRules
+     
+     question 5: SvelteBeatsReact 
+     
+     question 6: ThisIsJS
+     
+     question 7: YouFoundMe
+     
+     question 8: coolcoolcool
+     
+     question 9: 2020Sucked
+     
+     question 10: listenToTheBlackKeys
+     
+     question 11: allyComesFirst 
+     
+     Question 12: iLoveWebDev
+     
+     
+     
+     <h2>Question 9 passcode: 2020sucked</h2>
+
+<p hidden=""> Passcode for question 3: HTMLRocks</p>
+
+<span style="opacity: 0;">Question 5 Passcode:
+      SvelteBeatsReact</span>
+      
+      <meta name="question11" content="a11yComesFirst">
+      
+      <title data-question2="iHateCplusplus">Scavenger Hunt</title>
+      
+     Question 8 passcode: coolcoolcool 
+     
+     <question-four style="display:none">Passcode: JavaScriptRules</question-four>
+     
+     // Question 6 Passcode: ThisIsJS
+     
+     Question 7 Passcode: YouFoundMe
+     
+     <div data-question12passcode="iLoveWebDev"></div>
+     
+     <!-- Passcode for question 1: greenEggsAndHam -->
+     
+     Question 10 Passcode: listenToTheBlackKeys
